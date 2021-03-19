@@ -37,8 +37,15 @@ navbar:
           href: slides/data-wrangling-1.html
         - text: "Class 10: Data wrangling 2"
           href: slides/data-wrangling-2.html
+        - text: "Class 11: Getting things into the right order"
+          href: slides/getting-things-in-order.html
         - text: "Class 12: Visualizing proportions"
           href: slides/visualizing-proportions.html
+        - text: "Class 13: Visualizing trends"
+          href: slides/visualizing-trends.html
+        - text: "Class 14: Working with models"
+          href: slides/working-with-models.html
+
     - text: "Worksheets"
       menu:
         - text: "Class 1: Intro to R Markdown"
@@ -61,4 +68,13 @@ navbar:
           href: worksheets/figure-design.Rmd
         - text: "Class 9: Data wrangling 1"
           href: worksheets/data-wrangling-1.Rmd
+        - text: "Class 10: Data wrangling 2"
+          href: worksheets/data-wrangling-2.Rmd
+        - text: "Class 11: Getting things into the right order"
+          href: worksheets/getting-things-in-order.Rmd
+        - text: "Class 12: Visualizing proportions"
+          href: worksheets/visualizing-proportions.Rmd
+        - text: "Class 13: Visualizing trends"
+          href: worksheets/visualizing-trends.Rmd
+ 
 output: distill::distill_article

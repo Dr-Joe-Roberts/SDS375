@@ -646,7 +646,7 @@ ggplot(bundestag) +
   aes(
     x0 = 0, y0 = 0, # position of pie center
     r0 = 0, r = 1,  # inner and outer radius
-    amount = seats, # size of pie slizes
+    amount = seats, # size of pie slices
     fill = party
   ) + 
   geom_arc_bar(stat = "pie")
@@ -671,7 +671,7 @@ ggplot(bundestag) +
   aes(
     x0 = 0, y0 = 0, # position of pie center
     r0 = 0, r = 1,  # inner and outer radius
-    amount = seats, # size of pie slizes
+    amount = seats, # size of pie slices
     fill = party
   ) + 
   geom_arc_bar(stat = "pie") +
@@ -697,7 +697,7 @@ ggplot(bundestag) +
   aes(
     x0 = 0, y0 = 0, # position of pie center
     r0 = 0, r = 1,  # inner and outer radius
-    amount = seats, # size of pie slizes
+    amount = seats, # size of pie slices
     fill = party
   ) + 
   geom_arc_bar(stat = "pie") +
@@ -725,7 +725,7 @@ ggplot(bundestag) +
   aes(
     x0 = 1, y0 = 1, # position of pie center
     r0 = 0, r = 1,  # inner and outer radius
-    amount = seats, # size of pie slizes
+    amount = seats, # size of pie slices
     fill = party
   ) + 
   geom_arc_bar(stat = "pie") +
@@ -752,7 +752,7 @@ ggplot(bundestag) +
   aes(
     x0 = 1, y0 = 1, # position of pie center
     r0 = 1, r = 2,  # inner and outer radius
-    amount = seats, # size of pie slizes
+    amount = seats, # size of pie slices
     fill = party
   ) + 
   geom_arc_bar(stat = "pie") +
@@ -1114,6 +1114,9 @@ ggplot(pie_data) +
 ## Further reading
 
 - Fundamentals of Data Visualization: [Chapter 10: Visualizing proportions](https://clauswilke.com/dataviz/visualizing-proportions.html)
+- Fundamentals of Data Visualization: [Chapter 11: Visualizing nested proportions](https://clauswilke.com/dataviz/nested-proportions.html)
+- **ggplot2** reference documentation: [`position_stack()`, `position_fill()`](https://ggplot2.tidyverse.org/reference/position_stack.html)
+- **ggplot2** reference documentation: [`position_dodge()`](https://ggplot2.tidyverse.org/reference/position_dodge.html)
 - **ggforce** reference documentation: [`geom_arc_bar()`](https://ggforce.data-imaginist.com/reference/geom_arc_bar.html)
 
 

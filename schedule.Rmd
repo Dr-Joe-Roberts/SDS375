@@ -69,19 +69,46 @@ knitr::opts_chunk$set(echo = FALSE)
 - [Slides](slides/figure-design.html)  
 - [Worksheet](worksheets/figure-design.Rmd)
 
-### 9. Feb 23, 2021—Data wrangling 1
+### 9. Feb 25, 2021—Data wrangling 1
 
 <p class="nospace">Materials:</p>
 
 - [Slides](slides/data-wrangling-1.html)  
 - [Worksheet](worksheets/data-wrangling-1.Rmd)
 
-### 10. Feb 25, 2021—Data wrangling 2
+### 10. Mar 2, 2021—Data wrangling 2
 
 <p class="nospace">Materials:</p>
 
 - [Slides](slides/data-wrangling-2.html)  
+- [Worksheet](worksheets/data-wrangling-2.Rmd)
 
+### 11. Mar 4, 2021—Getting things into the right order
+
+<p class="nospace">Materials:</p>
+
+- [Slides](slides/getting-things-in-order.html)  
+- [Worksheet](worksheets/getting-things-in-order.Rmd)
+
+### 12. Mar 9, 2021—Visualizing proportions
+
+<p class="nospace">Materials:</p>
+
+- [Slides](slides/visualizing-proportions.html)  
+- [Worksheet](worksheets/visualizing-proportions.Rmd)
+
+### 13. Mar 11, 2021—Visualizing trends
+
+<p class="nospace">Materials:</p>
+
+- [Slides](slides/visualizing-trends.html)  
+- [Worksheet](worksheets/visualizing-trends.Rmd)
+
+### 14. Mar 23, 2021—Working with models
+
+<p class="nospace">Materials:</p>
+
+- [Slides](slides/working-with-models.html)
 
 ## Homeworks
 
@@ -111,44 +138,39 @@ All homeworks are due by 11:00pm on the day they are due. Homeworks need to be s
 - [HTML](assignments/HW3.html)
 - [Solutions](assignments/HW3_solutions.html)
 
-### Homework 4 (due Feb 22, 2021)
+### Homework 4 (due Mar 1, 2021)
 
 <p class="nospace">Materials:</p>
 
 - [R Markdown template](assignments/HW4.Rmd)
 - [HTML](assignments/HW4.html)
 
-### Homework 5 (due Mar 8, 2021)
+### Homework 5 (due Mar 22, 2021)
+
+<p class="nospace">Materials:</p>
+
+- [R Markdown template](assignments/HW5.Rmd)
+- [HTML](assignments/HW5.html)
+
+### Homework 6 (due Mar 29, 2021)
 
 <p class="nospace">Materials:</p>
 
 - coming soon
 
-### Homework 6 (due Mar 22, 2021)
+### Homework 7 (due Apr 12, 2021)
 
 <p class="nospace">Materials:</p>
 
 - coming soon
 
-### Homework 7 (due Apr 5, 2021)
+### Homework 8 (due Apr 19, 2021)
 
 <p class="nospace">Materials:</p>
 
 - coming soon
 
-### Homework 8 (due Apr 12, 2021)
-
-<p class="nospace">Materials:</p>
-
-- coming soon
-
-### Homework 9 (due Apr 19, 2021)
-
-<p class="nospace">Materials:</p>
-
-- coming soon
-
-### Homework 10 (due Apr 26, 2021)
+### Homework 9 (due Apr 26, 2021)
 
 <p class="nospace">Materials:</p>
 
@@ -158,7 +180,7 @@ All homeworks are due by 11:00pm on the day they are due. Homeworks need to be s
 
 All projects are due by 11:00pm on the day they are due. Projects need to be submitted on Canvas. Please carefully read the submission instructions for each project.
 
-### Project 1 (due Mar 1, 2021)
+### Project 1 (due Mar 8, 2021)
 
 <p class="nospace">Materials:</p>
 
@@ -168,7 +190,7 @@ All projects are due by 11:00pm on the day they are due. Projects need to be sub
 - [Grading rubric](assignments/project1_rubric.pdf)
 - [Example project](assignments/project1_example.html)
 
-### Project 2 (due Mar 29, 2021)
+### Project 2 (due Apr 5, 2021)
 
 <p class="nospace">Materials:</p>
 
