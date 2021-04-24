@@ -109,6 +109,70 @@ knitr::opts_chunk$set(echo = FALSE)
 <p class="nospace">Materials:</p>
 
 - [Slides](slides/working-with-models.html)
+- [Worksheet](worksheets/working-with-models.Rmd)
+
+### 15. Mar 25, 2021—Visualizing uncertainty
+
+<p class="nospace">Materials:</p>
+
+- [Slides](slides/visualizing-uncertainty.html)
+- [Worksheet](worksheets/visualizing-uncertainty.Rmd)
+
+### 16. Mar 30, 2021—Dimension reduction 1
+
+<p class="nospace">Materials:</p>
+
+- [Slides](slides/dimension-reduction-1.html)
+- [Worksheet](worksheets/dimension-reduction-1.Rmd)
+
+### 17. Apr 1, 2021—Dimension reduction 2
+
+<p class="nospace">Materials:</p>
+
+- [Slides](slides/dimension-reduction-2.html)
+- [Worksheet](worksheets/dimension-reduction-2.Rmd)
+
+### 18. Apr 6, 2021—Clustering
+
+<p class="nospace">Materials:</p>
+
+- [Slides](slides/clustering.html)
+- [Worksheet](worksheets/clustering.Rmd)
+
+### 19. Apr 8, 2021—Visualizing geospatial data
+
+<p class="nospace">Materials:</p>
+
+- [Slides](slides/geospatial-data.html)
+- [Worksheet](worksheets/geospatial-data.Rmd)
+
+### 20. Apr 13, 2021—Color spaces and color-vision deficiency
+
+<p class="nospace">Materials:</p>
+
+- [Slides](slides/color-spaces.html)
+- [Worksheet](worksheets/color-spaces.R)
+
+### 21. Apr 15, 2021—Redundant coding, text annotations
+
+<p class="nospace">Materials:</p>
+
+- [Slides](slides/redundant-coding.html)
+- [Worksheet](worksheets/redundant-coding.Rmd)
+
+### 22. Apr 20, 2021—Interactive plots
+
+<p class="nospace">Materials:</p>
+
+- [Slides](slides/interactive-plots.html)
+- [Worksheet](worksheets/interactive-plots.Rmd)
+
+### 23. Apr 22, 2021—Handling overlapping points
+
+<p class="nospace">Materials:</p>
+
+- [Slides](slides/overplotting.html)
+- [Worksheet](worksheets/overplotting.Rmd)
 
 ## Homeworks
 
@@ -144,6 +208,7 @@ All homeworks are due by 11:00pm on the day they are due. Homeworks need to be s
 
 - [R Markdown template](assignments/HW4.Rmd)
 - [HTML](assignments/HW4.html)
+- [Solutions](assignments/HW4_solutions.html)
 
 ### Homework 5 (due Mar 22, 2021)
 
@@ -151,30 +216,37 @@ All homeworks are due by 11:00pm on the day they are due. Homeworks need to be s
 
 - [R Markdown template](assignments/HW5.Rmd)
 - [HTML](assignments/HW5.html)
+- [Solutions](assignments/HW5_solutions.html)
 
 ### Homework 6 (due Mar 29, 2021)
 
 <p class="nospace">Materials:</p>
 
-- coming soon
+- [R Markdown template](assignments/HW6.Rmd)
+- [HTML](assignments/HW6.html)
+- [Solutions](assignments/HW6_solutions.html)
 
 ### Homework 7 (due Apr 12, 2021)
 
 <p class="nospace">Materials:</p>
 
-- coming soon
+- [R Markdown template](assignments/HW7.Rmd)
+- [HTML](assignments/HW7.html)
+- [Solutions](assignments/HW7_solutions.html)
 
 ### Homework 8 (due Apr 19, 2021)
 
 <p class="nospace">Materials:</p>
 
-- coming soon
+- [R Markdown template](assignments/HW8.Rmd)
+- [HTML](assignments/HW8.html)
 
 ### Homework 9 (due Apr 26, 2021)
 
 <p class="nospace">Materials:</p>
 
-- coming soon
+- [R Markdown template](assignments/HW9.Rmd)
+- [HTML](assignments/HW9.html)
 
 ## Projects
 
@@ -194,13 +266,19 @@ All projects are due by 11:00pm on the day they are due. Projects need to be sub
 
 <p class="nospace">Materials:</p>
 
-- coming soon
+- [Instructions](assignments/project2_instructions.html)
+- [Project Template (Rmd)](assignments/project2.Rmd)
+- [Project Template (HTML)](assignments/project2.html)
+- [Grading rubric](assignments/project2_rubric.pdf)
+- [Example project](assignments/project2_example.html)
 
 ### Project 3 (due May 3, 2021)
 
 <p class="nospace">Materials:</p>
 
-- coming soon
+- [Instructions](assignments/project3_instructions.html)
+- [Project Template (Rmd)](assignments/project3.Rmd)
+- [Project Template (HTML)](assignments/project3.html)
 
 ## Graduate course credit
 
@@ -210,7 +288,8 @@ This is an extra assignment for graduate students only.
 
 <p class="nospace">Materials:</p>
 
-- coming soon
+- [R Markdown template](assignments/grad_assignment.Rmd)
+- [HTML](assignments/grad_assignment.html)
 
 ### Final draft (due May 7, 2021)
 
