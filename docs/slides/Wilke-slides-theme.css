@@ -32,6 +32,8 @@ h1, h2, h3, h4 {
 
 .white { color: white; }
 
+.highlight { font-weight: bold; color: #91322F; }
+
 .nogap p {margin-top: 0; margin-bottom: 0}
 
 a, a > code {
@@ -49,26 +51,50 @@ table {
 .width-10 {
   width: 10%
 }
+.width-15 {
+  width: 15%
+}
 .width-20 {
   width: 20%
+}
+.width-25 {
+  width: 25%
 }
 .width-30 {
   width: 30%
 }
+.width-35 {
+  width: 35%
+}
 .width-40 {
   width: 40%
+}
+.width-45 {
+  width: 45%
 }
 .width-50 {
   width: 50%
 }
+.width-55 {
+  width: 55%
+}
 .width-60 {
   width: 60%
+}
+.width-65 {
+  width: 65%
 }
 .width-70 {
   width: 70%
 }
+.width-75 {
+  width: 75%
+}
 .width-80 {
   width: 80%
+}
+.width-85 {
+  width: 85%
 }
 .width-90 {
   width: 90%
@@ -82,6 +108,10 @@ table {
   margin-top: -2em;
 }
 
+.move-up-3em {
+  margin-top: -3em;
+}
+
 .move-down-1em {
   margin-top: 1em;
 }
@@ -90,6 +120,9 @@ table {
   margin-top: 2em;
 }
 
+.move-down-3em {
+  margin-top: 2em;
+}
 
 .absolute-bottom-left {
   position: absolute;
